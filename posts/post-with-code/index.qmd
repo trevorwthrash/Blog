@@ -1,8 +1,8 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Inferring MLB Pitcher Arm Angles"
+author: "Trevor Thrash"
 date: "2024-08-03"
-categories: [news, code, analysis]
+categories: [Baseball, Python]
 image: "image.jpg"
 ---
 
