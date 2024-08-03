@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -16,7 +16,7 @@
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Inferring MLB Pitcher Arm Angles",
     "section": "",
     "text": "This is a post with executable code."
   },
@@ -25,6 +25,41 @@
     "href": "index.html",
     "title": "Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nBaseball\n\n\nPython\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nTrevor Thrash\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 31, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Inferring MLB Pitcher Arm Angles\n\n\n\n\n\n\nBaseball\n\n\nPython\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nTrevor Thrash\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Pitch Value with Stuffoco+\n\n\n\n\n\n\nBaseball\n\n\nPython\n\n\n\n\n\n\n\n\n\nAug 1, 2024\n\n\nTrevor Thrash\n\n\n\n\n\n\n\n\n\n\n\n\nSimulating Baseball Games with MCMC\n\n\n\n\n\n\nBaseball\n\n\nPython\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nTrevor Thrash\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nTexas A&M University | San Diego, CA Masters of Financial Management | Aug 2020 - May 2015 Macalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present GeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "posts/lineup-sim/index.html",
+    "href": "posts/lineup-sim/index.html",
+    "title": "Simulating Baseball Games with MCMC",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/arm-angles/index.html",
+    "href": "posts/arm-angles/index.html",
+    "title": "Inferring MLB Pitcher Arm Angles",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/introducing-stuffoco/index.html",
+    "href": "posts/introducing-stuffoco/index.html",
+    "title": "Quantifying Pitch Value with Stuffoco+",
+    "section": "",
+    "text": "Machine learning models can give us insight into the true quality of a pitch"
   }
 ]

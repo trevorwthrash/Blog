@@ -1,0 +1,10 @@
+---
+title: "Simulating Baseball Games with MCMC"
+author: "Trevor Thrash"
+date: "2024-07-01"
+categories: [Baseball, Python]
+image: "image.jpg"
+draft: False
+---
+
+This is a post with executable code.

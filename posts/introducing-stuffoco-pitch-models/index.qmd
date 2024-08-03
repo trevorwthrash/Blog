@@ -1,0 +1,9 @@
+---
+title: "Quantifying Pitch Value with Stuffoco+"
+author: "Trevor Thrash"
+date: "2024-08-01"
+categories: [Baseball, Python]
+image: "image.jpg"
+---
+
+Machine learning models can give us insight into the true quality of a pitch
